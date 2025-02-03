@@ -1,3 +1,9 @@
+# This is the V2 of Kaizoku, called Kaizoku Next by OAE.
+
+This App is heavily in progress and merging the V2 nuked the OG Readme, therefore the Readme is this for now.
+
+I will Fix the readme when i (or someone else) made V2 useable and atleast semi Stable.
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
