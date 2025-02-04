@@ -1,10 +1,14 @@
-# This is the V2 of Kaizoku, called Kaizoku Next by OAE.
+# Kaizoku Next by OAE
 
-This App is heavily in progress and merging the V2 nuked the OG Readme, therefore the Readme is this for now.
+This App is heavily in progress and might never be finished (dont have much time myself).
 
-I will Fix the readme when i (or someone else) made V2 useable and atleast semi Stable.
+This Fork mainly exists to Promote the V2 Rework more prominently then the Archived Original repo, where the V2 is just a Branch.
 
-# Create T3 App
+I will Fix the readme when i (or someone else) made V2 more useable and atleast semi Stable. 
+
+I will probatly fix some bugs and create a Build or Docker Version sometime soon, but i cant promise anything else.
+
+# How to compile / work with Kaizoku Next ?
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
