@@ -6,7 +6,7 @@ This Fork mainly exists to Promote the V2 Rework more prominently then the Archi
 
 I will Fix the readme when i (or someone else) made V2 more useable and atleast semi Stable. 
 
-I will probatly fix some bugs and create a Build or Docker Version sometime soon, but i cant promise anything else.
+I will maybe create a Build or Docker Version sometime soon, but i cant promise anything.
 
 # How to compile / work with Kaizoku Next ?
 
