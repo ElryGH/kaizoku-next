@@ -2,7 +2,7 @@
 
 This App is heavily in progress and might never be finished (dont have much time myself).
 
-This Fork mainly exists to Promote the V2 Rework more prominently then the Archived Original repo, where the V2 is just a Branch.
+This Fork mainly exists to Promote the V2 Rework more prominently then the Archived Original repo.
 
 I will Fix the readme when i (or someone else) made V2 more useable and atleast semi Stable. 
 
